@@ -1,12 +1,25 @@
 /**
- * review
+ * Laura Villaraza
+ * review.java
+ * 10-07-24
+ * Covered two review topics of java, arrays and HashMap
  * 
  */
 
 import java.util.HashMap;
 import java.util.Scanner;
 
+/**
+ * The Review class allows for the user to interact with the ice cream 
+ * program, and allows for them to select their favorit ice cream flavor.
+ */
 public class review {
+
+    /**
+     * The main method with a provided menu of flavors
+     * 
+     * @param args
+     */
     public static void main(String[] args) {
 
         //store the flavors and initialize
